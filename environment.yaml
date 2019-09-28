@@ -1,6 +1,5 @@
 name: pangeo
 channels:
-  - pennmem
   - conda-forge
 dependencies:
   - dipy==1.1.0
